@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Outlook Badge](https://img.shields.io/badge/-SumizomeKaede@outlook.com-c14438?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:mrminifish@gmail.com)](mailto:SumizomeKaede@outlook.com)
-[![Gmail Badge](https://img.shields.io/badge/-mrminifish@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrminifish@gmail.com)](mailto:mrminifish@gmail.com)
-[![ORCID Badge](https://img.shields.io/badge/ORCID-0009--0005--0058--1217-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-0058-1217)
+<p align="center">
+    <a href="mailto:SumizomeKaede@outlook.com" target="_blank"><img alt="Outlook Badge" src="https://img.shields.io/badge/-SumizomeKaede@outlook.com-c14438?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:mrminifish@gmail.com"></a>
+    <a href="mailto:mrminifish@gmail.com" target="_blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-mrminifish@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrminifish@gmail.com"></a>
+    <a href="https://orcid.org/0009-0005-0058-1217" target="_blank"><img alt="ORCID Badge" src="https://img.shields.io/badge/ORCID-0009--0005--0058--1217-blue?style=flat-square&logo=orcid&logoColor=white"></a>
 
 ## ⚡ Technologies
 
